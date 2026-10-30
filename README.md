@@ -7,7 +7,7 @@ This code was employed to create the plots in Martínez-Henares et al. (2025) ht
 
 An example of the type of images that can be created is shown below.
 
-![]()
+![](https://github.com/amarhen/area_pv/blob/main/Screenshot%202026-10-31%20at%207.43.33.png)
 
 ## How to use the code
 
